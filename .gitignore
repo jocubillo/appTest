@@ -1,0 +1,7 @@
+node_modules/
+dist/**
+npm-debug.log
+coverage
+e2e-output
+.DS_Store
+
